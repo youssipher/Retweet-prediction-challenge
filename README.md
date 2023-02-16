@@ -10,4 +10,6 @@ We aim for the minimum Mean Absolute Error (MAE) .
 Acknowledgements
 
 We would like to thank the authors of the paper Abdine, Hadi, et al. "Political Communities on Twitter: Case Study of the 2022 French Presidential Election." arXiv preprint arXiv:2204.07436 (2022). for providing this dataset.
-You can find a link to the challenge here  --  https://www.kaggle.com/competitions/retweet-prediction-challenge-2022/data
+
+
+You can find a link to the challenge (and the dataset) here  --  https://www.kaggle.com/competitions/retweet-prediction-challenge-2022/data
