@@ -1,5 +1,4 @@
 # Retweet-prediction-challenge
-Retweet prediction challenge
 
 For this challenge, our mission is to accurately predict the number of retweets a tweet will get. 
 We work on a novel Twitter dataset with the 2022 French presidential election as the central topic, that was created by members of the DaSciM group. 
@@ -11,3 +10,4 @@ We aim for the minimum Mean Absolute Error (MAE) .
 Acknowledgements
 
 We would like to thank the authors of the paper Abdine, Hadi, et al. "Political Communities on Twitter: Case Study of the 2022 French Presidential Election." arXiv preprint arXiv:2204.07436 (2022). for providing this dataset.
+You can find a link to the challenge here  --  https://www.kaggle.com/competitions/retweet-prediction-challenge-2022/data
